@@ -286,7 +286,7 @@ def format_movie_caption(movie):
       f"{stars} <b>IMDb/TMDB Rating:</b> <b>{rating}/10</b>\n\n"
       f'🌐 <b>Official Website:</b> <a href="https://netfree.co.in">netfree.co.in</a>\n\n'
       f'📱 <b>Download Android App:</b> <a href="https://play.google.com/store/apps/details?id=com.netfree.mobile.app&referrer=utm_source%3Dradhe%26utm_campaign%3Dradhe%26anid%3Dadmob">DOWNLOAD APP</a>\n\n'
-      f"👉 <b>Join @netfree for Free Streaming & Daily Updates!</b>\n\n"
+      f"👉 <b>Join @netfree_coral for Free Streaming & Daily Updates!</b>\n\n"
       f"#Netfree #FreeStreaming #LatestMovies #HDMovies #WebSeries "
       f"#{title_keyword} #WatchOnline #BlockbusterMovies #CinemaHub"
   )
