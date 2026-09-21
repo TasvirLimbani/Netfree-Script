@@ -12,7 +12,7 @@
 # CHANNEL_ID = "-1003372872571"  # Your Telegram channel username or ID
 
 # # TMDB API Endpoint provided
-# TMDB_API_URL = "https://api.themoviedb.org/3/trending/movie/day?api_key=ce20e7cf6328f6174905bf11f6e0ea5d&page=1"
+# TMDB_API_URL = "https://api.themoviedb.org/3/movie/movie/day?api_key=ce20e7cf6328f6174905bf11f6e0ea5d&page=1"
 # TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
 # TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
 
